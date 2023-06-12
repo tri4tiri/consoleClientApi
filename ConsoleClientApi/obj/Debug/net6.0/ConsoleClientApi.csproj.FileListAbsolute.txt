@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\ConsoleClientApi\ConsoleClientApi\bin\Debug\net6.0\ConsoleClientApi.exe
+C:\Users\user\Desktop\ConsoleClientApi\ConsoleClientApi\bin\Debug\net6.0\ConsoleClientApi.deps.json
+C:\Users\user\Desktop\ConsoleClientApi\ConsoleClientApi\bin\Debug\net6.0\ConsoleClientApi.runtimeconfig.json
+C:\Users\user\Desktop\ConsoleClientApi\ConsoleClientApi\bin\Debug\net6.0\ConsoleClientApi.dll
+C:\Users\user\Desktop\ConsoleClientApi\ConsoleClientApi\bin\Debug\net6.0\ConsoleClientApi.pdb
+C:\Users\user\Desktop\ConsoleClientApi\ConsoleClientApi\obj\Debug\net6.0\ConsoleClientApi.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ConsoleClientApi\ConsoleClientApi\obj\Debug\net6.0\ConsoleClientApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ConsoleClientApi\ConsoleClientApi\obj\Debug\net6.0\ConsoleClientApi.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ConsoleClientApi\ConsoleClientApi\obj\Debug\net6.0\ConsoleClientApi.AssemblyInfo.cs
+C:\Users\user\Desktop\ConsoleClientApi\ConsoleClientApi\obj\Debug\net6.0\ConsoleClientApi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ConsoleClientApi\ConsoleClientApi\obj\Debug\net6.0\ConsoleClientApi.dll
+C:\Users\user\Desktop\ConsoleClientApi\ConsoleClientApi\obj\Debug\net6.0\refint\ConsoleClientApi.dll
+C:\Users\user\Desktop\ConsoleClientApi\ConsoleClientApi\obj\Debug\net6.0\ConsoleClientApi.pdb
+C:\Users\user\Desktop\ConsoleClientApi\ConsoleClientApi\obj\Debug\net6.0\ConsoleClientApi.genruntimeconfig.cache
+C:\Users\user\Desktop\ConsoleClientApi\ConsoleClientApi\obj\Debug\net6.0\ref\ConsoleClientApi.dll
